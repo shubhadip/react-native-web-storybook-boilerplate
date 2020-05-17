@@ -1,13 +1,13 @@
 # react-native-web-storybook-boilerplate
 
-#install
+# install
 
 npm install 
 
-#run react native web
+# run react native web
 
 npm run dev
 
-#start storybook
+# start storybook
 
 npm run storybook
